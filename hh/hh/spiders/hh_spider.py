@@ -1,34 +1,30 @@
-import os
-from selenium import webdriver
+from fake_headers import Headers
 import scrapy
-# import time
-# from scrapy import FormRequest
-# from scrapy.utils.response import open_in_browser
-from scrapy.crawler import CrawlerProcess
 
 
 class HHSPider(scrapy.Spider):
     name = 'hh'
-    start_urls = ['https://spb.hh.ru/account/login?backurl=%2F']
+    start_urls = [
+        'https://spb.hh.ru/search/vacancy?area=2&clusters=true&enable_snippets=true&ored_clusters=true&text=Python&search_period=30']
 
-    def parse(self, response, **kwargs):
-        """
-        Логинимся на hh
-        """
+    # def parse(self, response, **kwargs):
+    #     """
+    #     Логинимся на hh
+    #     """
 
-        # token = response.xpath('//*[@name="_xsrf"]/@value').get()
-        # print('token: ', token)
+    # token = response.xpath('//*[@name="_xsrf"]/@value').get()
+    # print('token: ', token)
 
-        # return FormRequest.from_response(response,
-        #                                  formdata={'_xsrf': token,
-        #                                            'backUrl': 'https://spb.hh.ru/',
-        #                                            'remember': 'yes',
-        #                                            'username': '@mail.ru',
-        #                                            'password': '',
-        #                                            # 'username': '@mail.ru',
-        #                                            'isBot': 'false',
-        #                                            },
-        #                                  callback=self.start)
+    # return FormRequest.from_response(response,
+    #                                  formdata={'_xsrf': token,
+    #                                            'backUrl': 'https://spb.hh.ru/',
+    #                                            'remember': 'yes',
+    #                                            'username': '@mail.ru',
+    #                                            'password': '',
+    #                                            # 'username': '@mail.ru',
+    #                                            'isBot': 'false',
+    #                                            },
+    #                                  callback=self.start)
 
     # def start(self, response, **kwargs):
     #     # open_in_browser(response)
@@ -39,12 +35,16 @@ class HHSPider(scrapy.Spider):
     #     url = 'https://spb.hh.ru/search/resume?text=&area=2&isDefaultArea=true&exp_period=all_time&logic=normal&pos=full_text&fromSearchLine=false&st=resumeSearch'
     #     yield scrapy.Request(url=url, callback=self.parse_1)
 
-
-    def parse_pages(self, response, **kwargs, ):
+    def parse(self, response, **kwargs, ):
         """
         Парсим страницы с вакансиями
         https://spb.hh.ru/search/vacancy?area=2&clusters=true&enable_snippets=true&ored_clusters=true&text=Python&search_period=30
         """
+        headers = Headers(
+            browser='firefox',
+            os='posix',
+            headers=True
+        )
         for vacancy in response.css('div.vacancy-serp-item'):
             link_vacancy = vacancy.css('span.g-user-content a.bloko-link::attr(href)').get()
             vacancy_name = vacancy.css('span.g-user-content a.bloko-link::text').get()
@@ -54,12 +54,13 @@ class HHSPider(scrapy.Spider):
                 'vacancy_name': vacancy_name,
             }
 
-            yield response.follow(link_vacancy, callback=self.parse_vacancy, cb_kwargs=dict(d=dct))
+            yield response.follow(link_vacancy, callback=self.parse_vacancy, cb_kwargs=dict(d=dct),
+                                  headers=headers.generate())
 
         next_page = response.css('span.bloko-form-spacer a.bloko-button::attr(href)').get()
         if next_page:
             # page += 1
-            yield response.follow(next_page, callback=self.parse_pages)
+            yield response.follow(next_page, callback=self.parse)
 
     def parse_vacancy(self, response, d):
         """
@@ -84,7 +85,6 @@ class HHSPider(scrapy.Spider):
             d['company'] = company
             d['work_exp'] = vacancy.css('div.bloko-gap.bloko-gap_bottom p span::text').get()
             yield d
-
 
 # if __name__ == '__main__':
 #     process = CrawlerProcess()
