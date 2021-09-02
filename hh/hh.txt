@@ -1,0 +1,690 @@
+Python*259
+Git*84
+MongoDB*13
+Redis*14
+RabbitMQ*12
+docker*4
+aiohttp*2
+asyncio*4
+Linux*126
+JavaScript*39
+Английский — B1 — Средний*40
+Java*32
+Разработка ПО*5
+C/C++*17
+удаленная работа*1
+devops*1
+Django Framework*23
+PostgreSQL*47
+vue.js*1
+GWT*1
+B2B*1
+Flask*7
+Английский — B2 — Средне-продвинутый*42
+algorithms*1
+Scrum*7
+Django*7
+Django REST Framework*2
+PyTest*3
+Postgres*2
+CI*1
+Работа в команде*14
+pytorch*2
+data science*3
+tensorflow*1
+gun*1
+deep learning*1
+Английский — A2 — Элементарный*6
+Работа в условиях многозадачности*1
+Умение работать в условиях многозадачности*1
+Умение адаптироваться*1
+Работа с большим объемом информации*6
+Умение работать в команде*1
+Ведение переговоров*5
+Грамотная речь*9
+Английский язык*67
+Коммуникабельность, ответственность*1
+ML*3
+Docker*39
+CI/CD*14
+Английский — A1 — Начальный*3
+Atlassian Jira*21
+ООП*16
+HTTP*3
+SQL*95
+MS SQL*15
+Software Development*3
+C++*40
+Teambuilding*1
+Golang*9
+FrontEnd*1
+REST API*4
+REST*3
+Citrix*1
+Citrix Systems*1
+backend*2
+ORACLE*9
+Сетевые технологии*2
+pytest*1
+gitlab*2
+Team management*1
+Machine Learning*6
+Reddis*1
+Swagger*1
+NLP*3
+PyTorch*5
+Celery*2
+Django Rest Framework*2
+Tensorflow*3
+Atlassian Confluence*5
+Jenkins*15
+Terraform*10
+AWS*11
+Zabbix*6
+Kubernetes*19
+MATLAB*4
+Математическое моделирование*6
+Линейная алгебра*2
+Алгоритмы*3
+Octave*1
+Математика*2
+Математическое программирование*1
+Tableau*12
+ClickHouse*7
+Математическая статистика*10
+TCP/IP*13
+MySQL*17
+Ansible*13
+Аналитические исследования*4
+Статистический анализ*7
+Анализ данных*13
+Прогнозирование*3
+Системный анализ*1
+Анализ бизнес показателей*1
+Power BI*7
+Функциональное тестирование*9
+Интеграционное тестирование*1
+Написание автотестов*1
+Тестирование API*2
+PowerBI*3
+IBM SPSS*1
+Маркетинговые исследования*7
+MS Excel*9
+Статистика*2
+Социологические исследования*1
+Работа с базами данных*4
+CSS*12
+HTML*13
+jQuery*2
+PHP*8
+React*5
+Wagtail*1
+Laravel*1
+October*1
+Обучение и развитие*6
+Обучение*2
+Организация учебного процесса*1
+Индивидуальное обучение*1
+Способность обучать других*2
+Точность и внимательность к деталям*1
+Работа с людьми*1
+Организация конференций*1
+MS Visual Studio*3
+STL*7
+Механика*1
+C#*13
+Elixir*1
+MS SQL Server*6
+Multithread Programming*3
+Metaprogramming*1
+Templates*1
+Variadic*1
+Deep Learning*3
+Transformers*1
+Macos*1
+AR*1
+VR*1
+Valve*1
+Computer Vision*2
+OpenCV*1
+English*6
+Numpy*1
+K8s*1
+Gitlab*3
+Математический анализ*2
+Аудит безопасности*2
+Внешний аудит информационных систем*1
+Средства криптографической защиты информации*1
+Технические системы и средства безопасности*1
+Технические средства информационной защиты*1
+Информационная безопасность*4
+Clickhouse*3
+Data Analysis*3
+Nginx*8
+Debian*4
+Bash*43
+Базы данных*8
+Perl*1
+Prometheus*1
+Grafana*5
+.NET Framework*4
+Objective-C*2
+Go*8
+Kotlin*3
+Swift*2
+Rust*3
+Delphi*1
+NoSQL*3
+Boost*2
+iOS*4
+Android*6
+Английский — C1 — Продвинутый*12
+Node.js*9
+Express.js*2
+Mongoose*2
+WebRTC*2
+Socket.io*3
+HTML5*8
+Qt*6
+Solid Works*1
+API*4
+ansible*2
+Автоматизация*3
+manual testing*1
+Unity*2
+тестирование игр*1
+Техническая поддержка*2
+SIP*1
+Asterisk*1
+Поддержка пользователей*1
+Zendesk*1
+DS*1
+Data Science*1
+DevOps*8
+MLOps*1
+Преподаватель*2
+Работа с детьми*1
+Time management*2
+PowerShell*4
+Windows*1
+Active Directory*1
+Azure*1
+SRE*3
+DevOPS*2
+NATS*1
+Nest.js*1
+NodeJS*1
+Elasticsearch*2
+TypeScript*3
+Разработка технических заданий*3
+Проведение тестирований*2
+Системное мышление*2
+Техническая документация*1
+Business Development*2
+Teamleading*3
+RobotFramework*1
+Embedded Linux*2
+GCC*2
+программирование*1
+firmware*1
+RTOS*1
+mbed*1
+Embedded C*1
+Linux drivers*1
+release engineer*1
+build engineer*1
+Apache Maven*2
+Gradle*1
+ANT*1
+Bamboo*1
+Bitbucket*1
+вычислительная геометрия*1
+Networking*2
+CCNP*1
+Управление командой*2
+VueJS*3
+Администрирование серверов Linux*8
+Cisco*2
+QA*10
+Performance testing*1
+JMeter*1
+HP LoadRunner*1
+Load testing*1
+Нагрузочное тестирование*2
+Yandex.Tank*1
+Немецкий язык*1
+HAProxy*1
+OpenGL*2
+Game Programming*4
+DirectX*1
+GNM*1
+Xbox One*1
+Xbox Series X*1
+Switch*1
+PS4*1
+PS5*1
+XB1*1
+Vulkan*1
+Разработка компьютерных Игр*1
+Gamedev*1
+Metal*1
+GNMX*1
+XBSX*1
+AGC*1
+DX12*1
+Weblogic*2
+Apache Tomcat*2
+Unix*5
+FIrewall*1
+VPN*2
+SOAP*1
+KVM*2
+OpenStack*4
+Agile Project Management*4
+SPA*1
+Mithril*1
+Управление проектами*6
+Подбор персонала*3
+Управление персоналом*1
+Маркетинговый анализ*5
+Сбор и анализ информации*1
+Аналитические способности*2
+Digital Marketing*1
+Product Marketing*1
+growth*1
+Google Analytics*6
+Яндекс.Метрика*5
+Google AdWords*3
+Яндекс.Директ*2
+power bi*1
+trello*1
+slack*1
+Контекстная реклама*1
+Интернет-реклама*1
+Internet Marketing*2
+Навыки презентации*1
+Администрирование серверов Windows*1
+Администрирование сетевого оборудования*1
+Настройка серверов*1
+Системное администирование*1
+Настройка ПК*1
+JSON API*1
+swift*1
+Hadoop*7
+DWH*2
+Data Warehouse*1
+SVN*1
+unreal engine*1
+Инфографика*1
+CSS3*1
+React/Redux*1
+A/B тесты*4
+Product Analysis*1
+Системный архитектор*1
+Solution architect*1
+SOAP/REST/JSON*1
+Управление временем*2
+Расстановка приоритетов*1
+Умение планировать*1
+frontend*1
+Code Review*1
+Ruby*2
+Ruby On Rails*2
+Ajile*1
+Мотивация персонала*1
+Ориентация на результат*5
+Стратегическое мышление*2
+Unix Shell Scripts*2
+Product Management*1
+SaaS*1
+1С: Предприятие 8*1
+1С: Документооборот*1
+1С: Склад*1
+1С: Управление персоналом*1
+1С программирование*1
+1С: Бухгалтерия*1
+1С: Зарплата и управление персоналом*1
+Анализ рынка*2
+SWOT анализ*1
+b2b исследования*1
+B2C исследования*1
+vue 2*1
+Data Mining*5
+Data Mining: ACNielsen*1
+Data Mining: Business Analytica*1
+Data Mining: Comcon*1
+Data Mining: Espar*1
+WEB аналитика*2
+Ad Hoc Analysis*1
+pandas*1
+numpy*1
+Call-tracking*1
+Google Tag Manager*1
+MVT тесты*1
+Анализ поведения пользователей*1
+Test case*5
+TestRail*1
+Postman*1
+Тестирование*10
+Pytest*2
+TFS*2
+Selenium IDE*1
+Doxygen*1
+ETL*6
+Big Data*4
+Spark*5
+HDFS*1
+Kafka*5
+Flink*2
+Любовь к детям*1
+Удаленная работа*1
+LLVM*2
+Clang*1
+Clangd*1
+Compilers*1
+Compiler Frontend*1
+static analysis*1
+toolchain*1
+SCALA*2
+MS PowerPoint*2
+MS Access*2
+Организация встреч*1
+Организация рабочих мест*1
+Autodesk Maya*2
+ZBrush*2
+3D Моделирование*1
+Adobe Photoshop*2
+Маркетинговое планирование*2
+Бизнес-анализ*4
+Windows Server*1
+Samba*1
+Postfix*1
+CRM Мегаплан*1
+Mikrotik*1
+Ubuntu*1
+Администрирование*2
+Системный администратор*1
+GCP services*1
+PHP+MySQL*1
+webpack*1
+npm*1
+React JS*1
+Android Studio*1
+Xcode*1
+Firebase*1
+make*1
+Shell Scripting*3
+Flutter*1
+Dart*1
+Agile*2
+Trello*1
+Оптимизация кода*1
+Аналитическое мышление*6
+Wolfram Matematica*1
+Information Security*2
+Devsecops*1
+Engineering*1
+IaC*2
+CSPM*1
+AWS Config*1
+AWS Firewall Manager*1
+AWS Detective*1
+AWS GuardDuty*1
+AWS WAF*1
+Cloud Security*1
+AWS Cloudformation*1
+Веб-аналитика*1
+Pytorch*1
+Автоматизация тестирования*2
+Check-list*1
+Регрессионное тестирование*1
+Тестирование пользовательского интерфейса*4
+IPTables*1
+Деловая переписка*3
+Тайм-менеджмент*1
+Мотивация*1
+Консультирование клиентов*1
+Пользователь ПК*1
+Грамотность*2
+Дистанционное обучение*1
+СУБД*8
+Greenplum*1
+Проектирование*1
+Проектно-конструкторская деятельность*1
+Проектная документация*1
+AutoCAD*2
+Autodesk Revit*2
+Navisworks*1
+Tekla Structures*1
+Транспортная логистика*1
+Мобильность*2
+MS Office*1
+Unit Testing*3
+TDD*1
+Frontend*1
+Java Script*1
+react*2
+ASP.NET*2
+WCF*1
+Openshift*2
+VMware*2
+Cassandra*2
+Scripting*1
+Vertica*2
+BigQuery*4
+Groovy*1
+MS Windows*1
+С++17*1
+Range-v3*1
+Hive*2
+Си*1
+Windows Os*2
+Puppet*1
+Ceph*1
+QtWebEngine*1
+Sailfish OS*1
+Open Source*1
+SQLAlchemy*1
+Cognos*1
+Apache Hive*1
+Powermap*1
+Power Pivot*1
+Query*1
+SSRS*1
+mdx*1
+Oracle Pl/SQL*4
+SAP BI*1
+Oracle BI*1
+Oracle 12g*1
+JS*1
+Project management*2
+Leadership Skills*1
+регрессионное тестирование*1
+Scikit-learn*1
+hadoop*1
+Разработка поисковых технологий*1
+IT*1
+Ремонт ПК*1
+Ремонтные работы*1
+Управление производством*1
+Схемотехника электронного оборудования*2
+Техническое обслуживание*1
+Pester*1
+GitLab*2
+STM32*2
+Разработка пультов управления*1
+микро-БЛА*1
+Assembler*2
+Регресионное тестирование*1
+Ручное тестирование*1
+CentOS*3
+Verilog*1
+ПЛИС*2
+Spring Framework*1
+Windows 7*3
+пакетные сети*1
+IP*1
+MPLS*1
+транспортная сеть*1
+IP/MPLS*1
+Pandas*2
+CRM*1
+Haskell*1
+Machine learning*1
+AioHTTP*1
+Mac Os*2
+разработка платформы*1
+RxJava2*1
+Блокчейн*1
+Деловая коммуникация*3
+Внутренние коммуникации*2
+SAP*1
+UI5*2
+Fiori*1
+Деловое общение*2
+GDB*1
+LLDB*1
+Swing*1
+Compiler*2
+Embedded systems*1
+kotlin*1
+ЦОС*1
+DSP*1
+FPGA*1
+VHDL*1
+межсетевые экраны*1
+Human Computer Interaction*1
+Algorithms*1
+Backend in C #*1
+Frontend in JavaScript*1
+3D graphics*1
+VBA*1
+Динамическое программирование*1
+Линейная оптимизация*1
+Нелинейная оптимизация*1
+Revit Api*1
+Dynamo*1
+SAP ERP*1
+AngularJS*2
+OpenShift*1
+Tekton*1
+Ubuntu Server*1
+Phyton*1
+Devops*1
+Helm*1
+GitOps*1
+Amazon*1
+ELK*1
+Bootstrap*1
+ElasticSearch*1
+Mathcad*1
+Visual Studio C#*1
+BPMN*1
+Espresso*1
+Facebook Ads*1
+Google UAC*1
+Business English*1
+Social Media Marketing*1
+Appsflyer*1
+Exel*1
+UX*1
+UI*1
+Проектирование пользовательских интерфейсов*1
+FastAPI*1
+Регресcионное тестирование*1
+Оценка кандидатов*1
+Executive Search*1
+Ответственность*2
+Arduino*1
+minecraft*1
+Scratch*1
+Lego*1
+Huna*1
+Robotrack*1
+работа с детьми*1
+детские мастер-классы*1
+Blender 3D*1
+Thinkercad*1
+App Inventor*1
+Business intelligence*1
+C*1
+С++ (11,14)*1
+С*1
+gdb*1
+golang*1
+Уверенный пользователь ПК*1
+Постановка задач разработчикам*1
+Модульное тестирование*1
+Databases*1
+TestLink*1
+Bug Tracking Systems*1
+IoT*1
+LDAP*1
+Nexus*1
+R*2
+Market Research*1
+Экономическое моделирование*1
+Эконометрика*1
+Макроэкономика*1
+Разработка концепции*1
+Английский язык (Upper-Intermediate)*1
+Backend*1
+Unreal Engine 4*1
+UE4*1
+Development*1
+CTO*1
+Управление процессами*1
+Многозадачность*1
+AWS API*1
+Intellij IDEA*1
+Recruitment*1
+Корректура текстов*1
+SDET*1
+ANSYS*1
+Работа с технической документацией*1
+Информационные технологии*1
+Rigging*1
+Skinning*1
+Построение digital воронок*1
+Анализ ЦА*1
+Постановка задач*1
+Формирование УТП*1
+Проактивность*1
+Mercurial*1
+embedded*1
+встроенное ПО*1
+Junior*1
+Project Documentation*1
+Technical documentation*1
+Black box testing*1
+Sourcing*1
+IT рекрутмент*1
+Research*1
+ERP*1
+С#*1
+Исследования рынка*1
+JTBD*1
+LTV*1
+CJM*1
+AppsFlyer*1
+correspondent analysis*1
+Altium Designer*1
+SolidWorks*1
+Olap (online analytical processing)*1
+Business Intelligence Systems*1
+Навыки межличностного общения*2
+OpenJDK*1
+Jira*1
+Selenium*1
+Hibernate*1
+Spring*1
+Unix-системы*1
+Java SE*1
+Apache Beam*1
+Airflow*1
+Google Cloud Platform*1
+Apache Kafka*1
+Эффективное принятие решений*1
+JSON*1
+Стремление к профессиональному росту*1
+Высоконагруженные системы*2
